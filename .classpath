@@ -24,6 +24,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+=======
+>>>>>>> branch 'master' of https://github.com/acofmelt/AniRat
 	<classpathentry kind="output" path="target/project_name-0.0.1-SNAPSHOT/WEB-INF/classes"/>
 </classpath>
