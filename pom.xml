@@ -7,7 +7,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<groupId>aiss</groupId>
-	<artifactId>project_name</artifactId>
 
 	<!-- Restlet repository -->
 	<repositories>
@@ -253,4 +252,5 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<artifactId>AniRat</artifactId>
 </project>
